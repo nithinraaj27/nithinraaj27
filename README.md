@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**nithinraaj27/nithinraaj27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hola, I'm NithinRaaj 👋
 
 - 🔭 I’m currently working on Frontier
 - 🌱 I’m currently learning Flutter
@@ -16,4 +11,3 @@ Here are some ideas to get you started:
 - [LinkedIn - Nithin Raaj](https://www.linkedin.com/in/nithin-raaj-8b252519b/)
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: I Merly wanted to look like Iron Man inn Marvel🤣
--->
