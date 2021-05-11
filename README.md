@@ -10,4 +10,4 @@
 - [Youtube - Nithin Raaj](https://www.youtube.com/channel/UC7ysoVU2Lh2kDepOuG-mIsw/featured)
 - [LinkedIn - Nithin Raaj](https://www.linkedin.com/in/nithin-raaj-8b252519b/)
 - 😄 Pronouns: He / His
-- ⚡ Fun fact: I Merly wanted to look like Iron Man inn Marvel🤣
+- ⚡ Fun fact: I Merly wanted to look like Iron Man in Marvel🤣
