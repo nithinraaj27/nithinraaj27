@@ -1,9 +1,9 @@
 ### Hola, I'm NithinRaaj 👋
 
-- 🔭 I’m currently working on Frontier
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on Devops
+- 🌱 I’m currently learning to be an full-stack dev
 - 👯 I’m looking to collaborate on YouTube
-- 🤔 I’m looking for help with Firebase
+- 🤔 I’m looking for help with Devops
 - 💬 Ask me about Flutter related contents
 - 📫 How to reach me:  
 - [Instagram - @nithin.raaj](https://www.instagram.com/nithin.raaj/) 
