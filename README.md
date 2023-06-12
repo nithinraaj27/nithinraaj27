@@ -1,6 +1,6 @@
 ### Hola, I'm NithinRaaj 👋
 
-- 🔭 I’m currently working on Devops
+- 🔭 I’m currently working as Devops
 - 🌱 I’m currently learning docker,kubernetes...
 - 👯 I’m looking to collaborate on YouTube
 - 🤔 I’m looking for help with Devops
