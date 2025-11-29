@@ -1,13 +1,31 @@
-### Hola, I'm NithinRaaj 👋
+🚀 Hi, I'm NithinRaaj 👋
 
-- 🔭 I’m currently working as Devops
-- 🌱 I’m currently learning docker,kubernetes...
-- 👯 I’m looking to collaborate on YouTube
-- 🤔 I’m looking for help with Devops
-- 💬 Ask me about Flutter related contents
-- 📫 How to reach me:  
-- [Instagram - @nithin.raaj](https://www.instagram.com/nithin.raaj/) 
-- [Youtube - Nithin Raaj](https://www.youtube.com/channel/UC7ysoVU2Lh2kDepOuG-mIsw/featured)
-- [LinkedIn - Nithin Raaj](https://www.linkedin.com/in/nithin-raaj-8b252519b/)
-- 😄 Pronouns: He / His
-- ⚡ Fun fact: I Merly wanted to look like Iron Man in Marvel🤣
+🔭 Backend Developer & Automation Engineer building systems with real production mindset
+
+🌱 Deeply learning Spring Boot, Microservices, Cloud, and AI-augmented backend services
+
+☁ Skilled in distributed systems, API design, and scalable service architectures
+
+🧩 Enjoy solving production bugs, system bottlenecks, and backend reliability challenges
+
+🧠 Also exploring AI workloads, embeddings, semantic search, and backend model integrations
+
+🐳 Containerizing everything with Docker, Kubernetes-ready deployments, and CI/CD
+
+👨‍💻 Built personal backend microservices projects owning core APIs end-to-end
+
+🛡 Passionate about systems where Security meets Scale meets Intelligence
+
+💬 Ask me about Backend engineering, Spring, CI/CD, or mobile-backend integration
+
+📫 Reach me here:
+
+[Instagram — @nithin.raaj]
+
+[YouTube — NithinRaaj Tech]
+
+[LinkedIn — NithinRaaj]
+
+[GitHub — /nithinraaj27]
+
+⚡ Fun fact: Still low-key aiming to build Jarvis before Tony Stark retires 😎🤣
